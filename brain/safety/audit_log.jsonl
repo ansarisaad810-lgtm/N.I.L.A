@@ -1,0 +1,79 @@
+{"timestamp": 1791483549.414987, "tool": "open_app", "tier": 1, "args": {"app_name": "chrome"}, "approved": true}
+{"timestamp": 1791483840.1467032, "tool": "open_app", "tier": 1, "args": {"app_name": "chrome"}, "approved": true}
+{"timestamp": 1791483861.208478, "tool": "open_app", "tier": 1, "args": {"app_name": "youtube"}, "approved": true}
+{"timestamp": 1791484594.3040674, "tool": "open_app", "tier": 1, "args": {"app_name": "chrome"}, "approved": true}
+{"timestamp": 1791484602.3569868, "tool": "open_app", "tier": 1, "args": {"app_name": "calculator"}, "approved": true}
+{"timestamp": 1791484612.514768, "tool": "open_app", "tier": 1, "args": {"app_name": "photos"}, "approved": true}
+{"timestamp": 1791484625.5475507, "tool": "open_app", "tier": 1, "args": {"app_name": "file explorer"}, "approved": true}
+{"timestamp": 1791484635.0412993, "tool": "open_app", "tier": 1, "args": {"app_name": "whatsapp"}, "approved": true}
+{"timestamp": 1791486060.0670285, "tool": "open_app", "tier": 1, "args": {"app_name": "chrome"}, "approved": true}
+{"timestamp": 1791486071.7649863, "tool": "set_volume", "tier": 1, "args": {"level": 75}, "approved": true}
+{"timestamp": 1791486111.801652, "tool": "set_volume", "tier": 1, "args": {"level": 76}, "approved": true}
+{"timestamp": 1791486245.0285294, "tool": "set_volume", "tier": 1, "args": {"level": 20}, "approved": true}
+{"timestamp": 1791486308.8037791, "tool": "set_volume", "tier": 1, "args": {"level": 20}, "approved": true}
+{"timestamp": 1791534714.0655513, "tool": "open_app", "tier": 1, "args": {"app_name": "https://www.youtube.com"}, "approved": true}
+{"timestamp": 1791534792.3982632, "tool": "open_app", "tier": 1, "args": {"app_name": "chrome profile 2"}, "approved": true}
+{"timestamp": 1791534800.9027023, "tool": "open_app", "tier": 1, "args": {"app_name": "Blender"}, "approved": true}
+{"timestamp": 1791534874.9451308, "tool": "open_app", "tier": 1, "args": {"app_name": "https://www.youtube.com"}, "approved": true}
+{"timestamp": 1791534901.592834, "tool": "open_app", "tier": 1, "args": {"app_name": "https://www.youtube.com/watch?v=5Z4c6Y0q7q8", "level": "normal"}, "approved": true}
+{"timestamp": 1791534944.8570955, "tool": "open_app", "tier": 1, "args": {"app_name": "C:\\Users\\ASUS\\Downloads\\Supergirl_(2026)_Hindi_Dubbed_Movie_480p_Web-DL.mkv"}, "approved": true}
+{"timestamp": 1791534971.822511, "tool": "open_app", "tier": 1, "args": {"app_name": "Downloads/Supergirl"}, "approved": true}
+{"timestamp": 1791535001.7433019, "tool": "open_app", "tier": 1, "args": {"app_name": "C:\\Users\\<username>\\Downloads\\Supergirl_(2026)_Hindi_Dubbed_Movie_480p_Web-DL.mp4"}, "approved": true}
+{"timestamp": 1791535016.387628, "tool": "open_app", "tier": 1, "args": {"app_name": "Downloads/Supergirl_(2026)_Hindi_Dubbed_Movie_480p_Web-DL.mkv"}, "approved": true}
+{"timestamp": 1791535078.3419018, "tool": "open_app", "tier": 1, "args": {"app_name": "Downloads"}, "approved": true}
+{"timestamp": 1791535087.1479588, "tool": "open_app", "tier": 1, "args": {"app_name": "Downloads"}, "approved": true}
+{"timestamp": 1791535097.797608, "tool": "open_app", "tier": 1, "args": {"app_name": "control"}, "approved": true}
+{"tool_name": "smart_open", "tier": 1, "args": {"target": "Downloads"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "sayiyara song"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "badtameez dil song"}, "approved": true}
+{"tool_name": "file_search", "tier": 1, "args": {"filename": "Flappy Bird.html", "search_dir": "Downloads"}, "approved": true}
+{"tool_name": "file_search", "tier": 1, "args": {"filename": "flappy bird.html", "search_dir": "Downloads"}, "approved": true}
+{"tool_name": "file_search", "tier": 1, "args": {"filename": "Flappy Bird.html", "search_dir": "Downloads"}, "approved": true}
+{"tool_name": "smart_open", "tier": 1, "args": {"target": "C:\\Users\\ASUS\\Downloads\\Flappy Bird.html"}, "approved": true}
+{"tool_name": "set_reminder", "tier": 1, "args": {"delay_seconds": 10, "message": "Take a break!"}, "approved": true}
+{"tool_name": "send_whatsapp_message", "tier": 1, "args": {"message": "Hello from NILA", "phone_number": "+918109532886"}, "approved": true}
+{"tool_name": "send_whatsapp_message", "tier": 1, "args": {"message": "Hello from NILA", "phone_number": "+918109532886"}, "approved": true}
+{"tool_name": "set_reminder", "tier": 1, "args": {"delay_seconds": 10, "message": "Take a break!"}, "approved": true}
+{"tool_name": "send_whatsapp_message", "tier": 1, "args": {"message": "Hello from NILA", "phone_number": "+918109532886"}, "approved": true}
+{"tool_name": "send_whatsapp_message", "tier": 1, "args": {"message": "Hello Saad from NILA", "phone_number": "+918109532886"}, "approved": true}
+{"tool_name": "smart_open", "tier": 1, "args": {"target": "Blender"}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 50}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 100}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 10}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 100}, "approved": true}
+{"tool_name": "process_manager", "tier": 1, "args": {"action": "list"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "pause"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "play"}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 10}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "fast_forward"}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up", "count": 2}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up", "count": 1}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "rewind", "count": 1}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "pause"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "play"}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "fast_forward"}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "fast_forward", "count": 10}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 80}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 40}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "fast_forward", "count": 2}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up", "count": 2}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 10}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up", "count": 3}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_down", "count": 3}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 10}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 20}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "avengers doomsday"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "Avengers Doomsday Trailer"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "avengers doomsday"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "doraemon new movie trailer"}, "approved": true}
+{"tool_name": "smart_open", "tier": 1, "args": {"target": "chrome"}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "Atif Aslam"}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 10}, "approved": true}
+{"tool_name": "set_brightness", "tier": 1, "args": {"level": 100}, "approved": true}
+{"tool_name": "set_volume", "tier": 1, "args": {"level": 100}, "approved": true}
+{"tool_name": "youtube_play", "tier": 1, "args": {"query": "song"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "pause"}, "approved": true}
+{"tool_name": "media_control", "tier": 1, "args": {"action": "play"}, "approved": true}
+{"tool_name": "youtube_control", "tier": 1, "args": {"action": "speed_up", "count": 3}, "approved": true}
+{"tool_name": "smart_open", "tier": 1, "args": {"target": "Blender"}, "approved": true}

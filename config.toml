@@ -1,0 +1,19 @@
+[system]
+name = "N.I.L.A."
+version = "0.1.0"
+environment = "development"
+
+[ipc]
+host = "127.0.0.1"
+port = 8765
+auth_token = "nila_local_dev_token_2026"
+
+[agent]
+max_steps = 5
+llm_provider = "groq"
+user_name = "Sir"
+groq_api_key = "GROK_API_HERE"
+
+[safety]
+enable_audit_log = true
+audit_log_path = "brain/safety/audit_log.jsonl"
